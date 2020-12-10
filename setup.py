@@ -40,8 +40,8 @@ import setuptools
 
 setuptools.setup(
     name="i-am-malicious",
-    version="1.0.4",
-    url="",
+    version="1.0.5",
+    url="https://github.com/moser/malicious-pypi-pkg",
 
     author="Martin Vielsmaier",
     author_email="moser@moserei.de",

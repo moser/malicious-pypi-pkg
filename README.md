@@ -1,6 +1,8 @@
 
 # Malicious PyPI package proof of concept
 
+[Find this on PyPI](https://pypi.org/project/i-am-malicious/)
+
 This package demonstrates what a malicious PyPI package could do to you :-)
 
 What it does: It downloads a python file from a github gist and runs it. That
